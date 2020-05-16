@@ -1,0 +1,4 @@
+mylog.log
+mylog2.log
+*.log
+/ignore
